@@ -1,0 +1,13 @@
+{
+  "prefix": "https://www.github.com/barafael/tracks/blob/main/",
+  "songs": [
+    {
+      "title": "get meme'd",
+      "path": "tracks/get_memed.mp3"
+    },
+    {
+      "title": "business boundary",
+      "path": "tracks/business_boundary.mp3"
+    }
+  ]
+}
