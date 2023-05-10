@@ -1,12 +1,13 @@
 {
-  "prefix": "https://www.github.com/barafael/tracks/blob/main/",
+  "title": "Music by Rafael Bachmann",
+  "prefix": "https://barafael.github.io/tracks/",
   "songs": [
     {
-      "title": "get meme'd",
+      "name": "get meme'd",
       "path": "tracks/get_memed.mp3"
     },
     {
-      "title": "business boundary",
+      "name": "business boundary",
       "path": "tracks/business_boundary.mp3"
     }
   ]
