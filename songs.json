@@ -75,6 +75,10 @@
       "path": "tracks/doro_gb.mp3"
     },
     {
+      "name": "Doro GB voices",
+      "path": "tracks/doro_gb_voices.mp3"
+    },
+    {
       "name": "soundwich",
       "path": "tracks/soundwich.mp3"
     },
