@@ -3,12 +3,128 @@
   "prefix": "https://barafael.github.io/tracks/",
   "songs": [
     {
+      "name": "business boundary",
+      "path": "tracks/business_boundary.mp3"
+    },
+    {
       "name": "get meme'd",
       "path": "tracks/get_memed.mp3"
     },
     {
-      "name": "business boundary",
-      "path": "tracks/business_boundary.mp3"
+      "name": "piggyback",
+      "path": "tracks/piggyback.mp3"
+    },
+    {
+      "name": "calm_and_cozy",
+      "path": "tracks/calm_and_cozy.mp3"
+    },
+    {
+      "name": "soundwich2",
+      "path": "tracks/soundwich2.mp3"
+    },
+    {
+      "name": "soundwich",
+      "path": "tracks/soundwich.mp3"
+    },
+    {
+      "name": "to_forget",
+      "path": "tracks/to_forget.mp3"
+    },
+    {
+      "name": "get_the_iodine",
+      "path": "tracks/get_the_iodine.mp3"
+    },
+    {
+      "name": "glory_b_with_ya",
+      "path": "tracks/glory_b_with_ya.mp3"
+    },
+    {
+      "name": "moonfi",
+      "path": "tracks/moonfi.mp3"
+    },
+    {
+      "name": "monofi",
+      "path": "tracks/monofi.mp3"
+    },
+    {
+      "name": "nofi",
+      "path": "tracks/nofi.mp3"
+    },
+    {
+      "name": "quarantine_tape_1",
+      "path": "tracks/quarantine_tape_1.mp3"
+    },
+    {
+      "name": "buy_this_buy_that",
+      "path": "tracks/buy_this_buy_that.mp3"
+    },
+    {
+      "name": "illusions",
+      "path": "tracks/illusions.mp3"
+    },
+    {
+      "name": "LoSheran",
+      "path": "tracks/LoSheran.mp3"
+    },
+    {
+      "name": "slofi",
+      "path": "tracks/slofi.mp3"
+    },
+    {
+      "name": "Doro GB",
+      "path": "tracks/doro_gb.mp3"
+    },
+    {
+      "name": "all_them_buffers",
+      "path": "tracks/all_them_buffers.mp3"
+    },
+    {
+      "name": "back_to_basics",
+      "path": "tracks/back_to_basics.mp3"
+    },
+    {
+      "name": "eso_influencer_ad_bg",
+      "path": "tracks/eso_influencer_ad_bg.mp3"
+    },
+    {
+      "name": "chill_dem_nuggets",
+      "path": "tracks/chill_dem_nuggets.mp3"
+    },
+    {
+      "name": "long_fi",
+      "path": "tracks/long_fi.mp3"
+    },
+    {
+      "name": "lemon_fever",
+      "path": "tracks/lemon_fever.mp3"
+    },
+    {
+      "name": "gray_and_brown",
+      "path": "tracks/gray_and_brown.mp3"
+    },
+    {
+      "name": "lofi_but_too_long",
+      "path": "tracks/lofi_but_too_long.mp3"
+    },
+    {
+      "name": "agfc",
+      "path": "tracks/agfc.mp3"
+    },
+    {
+      "name": "accelerating_time_arp",
+      "path": "tracks/accelerating_time_arp.mp3"
+    },
+    {
+      "name": "something_something_something",
+      "path": "tracks/something_something_something.mp3"
+    },
+    {
+      "name": "recurring_shower_thoughts",
+      "path": "tracks/recurring_shower_thoughts.mp3"
+    },
+    {
+      "name": "triple_wub",
+      "path": "tracks/triple_wub.mp3"
     }
   ]
 }
