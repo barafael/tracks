@@ -15,10 +15,6 @@
       "path": "tracks/piggyback.mp3"
     },
     {
-      "name": "calm and cozy",
-      "path": "tracks/calm_and_cozy.mp3"
-    },
-    {
       "name": "soundwich2",
       "path": "tracks/soundwich2.mp3"
     },
@@ -31,8 +27,16 @@
       "path": "tracks/moonfi.mp3"
     },
     {
+      "name": "calm and cozy",
+      "path": "tracks/calm_and_cozy.mp3"
+    },
+    {
       "name": "to forget",
       "path": "tracks/to_forget.mp3"
+    },
+    {
+      "name": "nofi",
+      "path": "tracks/nofi.mp3"
     },
     {
       "name": "get the iodine",
@@ -45,10 +49,6 @@
     {
       "name": "monofi",
       "path": "tracks/monofi.mp3"
-    },
-    {
-      "name": "nofi",
-      "path": "tracks/nofi.mp3"
     },
     {
       "name": "quarantine tape 1",
