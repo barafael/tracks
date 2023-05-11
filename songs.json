@@ -19,12 +19,20 @@
       "path": "tracks/soundwich2.mp3"
     },
     {
-      "name": "soundwich",
-      "path": "tracks/soundwich.mp3"
+      "name": "recurring shower thoughts",
+      "path": "tracks/recurring_shower_thoughts.mp3"
+    },
+    {
+      "name": "nofi",
+      "path": "tracks/nofi.mp3"
     },
     {
       "name": "moonfi",
       "path": "tracks/moonfi.mp3"
+    },
+    {
+      "name": "glory b with ya",
+      "path": "tracks/glory_b_with_ya.mp3"
     },
     {
       "name": "calm and cozy",
@@ -35,16 +43,8 @@
       "path": "tracks/to_forget.mp3"
     },
     {
-      "name": "nofi",
-      "path": "tracks/nofi.mp3"
-    },
-    {
       "name": "get the iodine",
       "path": "tracks/get_the_iodine.mp3"
-    },
-    {
-      "name": "glory b with ya",
-      "path": "tracks/glory_b_with_ya.mp3"
     },
     {
       "name": "monofi",
@@ -75,32 +75,40 @@
       "path": "tracks/doro_gb.mp3"
     },
     {
+      "name": "soundwich",
+      "path": "tracks/soundwich.mp3"
+    },
+    {
       "name": "all them buffers",
       "path": "tracks/all_them_buffers.mp3"
-    },
-    {
-      "name": "back to basics",
-      "path": "tracks/back_to_basics.mp3"
-    },
-    {
-      "name": "eso influencer ad bg",
-      "path": "tracks/eso_influencer_ad_bg.mp3"
-    },
-    {
-      "name": "chill dem nuggets",
-      "path": "tracks/chill_dem_nuggets.mp3"
-    },
-    {
-      "name": "long fi",
-      "path": "tracks/long_fi.mp3"
     },
     {
       "name": "lemon fever",
       "path": "tracks/lemon_fever.mp3"
     },
     {
+      "name": "triple wub",
+      "path": "tracks/triple_wub.mp3"
+    },
+    {
+      "name": "chill dem nuggets",
+      "path": "tracks/chill_dem_nuggets.mp3"
+    },
+    {
       "name": "gray and brown",
       "path": "tracks/gray_and_brown.mp3"
+    },
+    {
+      "name": "long fi",
+      "path": "tracks/long_fi.mp3"
+    },
+    {
+      "name": "eso influencer ad bg",
+      "path": "tracks/eso_influencer_ad_bg.mp3"
+    },
+    {
+      "name": "back to basics",
+      "path": "tracks/back_to_basics.mp3"
     },
     {
       "name": "lofi but too long",
@@ -117,14 +125,6 @@
     {
       "name": "something something something",
       "path": "tracks/something_something_something.mp3"
-    },
-    {
-      "name": "recurring shower thoughts",
-      "path": "tracks/recurring_shower_thoughts.mp3"
-    },
-    {
-      "name": "triple wub",
-      "path": "tracks/triple_wub.mp3"
     }
   ]
 }
